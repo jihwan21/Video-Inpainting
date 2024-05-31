@@ -24,6 +24,10 @@
 ## 4. Demo Result
 - Input Video
 
+
+https://github.com/jihwan21/Video-Inpainting/assets/96354328/d806852a-5a92-4a89-941e-eb62d470efd4
+
+
 - Output Video
 
 ---
