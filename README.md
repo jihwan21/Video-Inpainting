@@ -31,7 +31,10 @@ https://github.com/jihwan21/Video-Inpainting/assets/96354328/d806852a-5a92-4a89-
 - Output Video
 
 
-https://github.com/jihwan21/Video-Inpainting/assets/96354328/0e2e13e1-25bb-46e7-8add-01faa730aaba
+
+https://github.com/jihwan21/Video-Inpainting/assets/96354328/42e43b2c-8229-4c8d-9067-140a7cd7d535
+
+
 
 
 ---
